@@ -31,6 +31,7 @@ przydatne do wyrównywania wymiarów dwóch lub więcej elementów hurtem
 
 a jak potem na slajdzie klikniemy na taki element i klikniemy 
 
+
 6. Odczytaj dane pliku to nam pokaże:
 
 <img width="561" height="298" alt="6" src="https://github.com/user-attachments/assets/46d82adb-d5fb-4346-926c-01a1069bdb2a" />
