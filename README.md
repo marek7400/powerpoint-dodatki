@@ -27,7 +27,7 @@ a w nim:
 przydatne do wyrównywania wymiarów dwóch lub więcej elementów hurtem
 
 
-5. Wstaw plik z pamięcią (tworząc slajdy ZAWSZE warto je wstawiać korzystając z tego) - zapamiętuje wtedy dla każdego wstawianego elementu jego dane
+5. Wstaw plik z pamięcią (tworząc slajdy ZAWSZE warto je wstawiać korzystając z tego) - zapamiętuje wtedy dla każdego wstawianego elementu z dysku, jego dane
 
 a jak potem na slajdzie klikniemy na taki element i klikniemy 
 
