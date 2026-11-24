@@ -40,8 +40,7 @@ Prawdziwa nazwa pliku (domyślnie po wstawieniu PowerPoint  JĄ NISZCZY), rozmia
 
 Pomaga to czasem w szukaniu czego użyto do tworzenia slajdu.
 
-
-
+<br>
 7.  Eksportuj Slajdy (można eksportować do pliku pojedyncze slajdy, z zakresu od-do, wybrane lub wszystkie-zapisywany jest osobno każdy slajd)
 
 Wybór co chcemy z prezentacji zapisać i jak (domyślnie PowerPoint nie ma takich opcji).
