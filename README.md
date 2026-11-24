@@ -61,6 +61,20 @@ przykład wypakowanego slajdu nr 1:
 
 Wypakowuje wideo, audio, animacje gif, obrazki, tekst, kształty jako png.
 
+*** Innym prostym sposobem dostania się do plików użytych w prezentacji jest zmiana rozszerzenia pliku z *.pptx na *.zip, i wypakowania plików z podkatalogu MEDIA ***
+---
 
+Przydatne sztuczki przy tworzeniu własnej zakładki ze skrótami w menu PowerPoint (Wstążka)
 
+(do dopisania):
+
+Office RibbonX Editor - edytor wstążki github.com/fernandreu/office-ribbonx-editor/releases/latest 
+
+Własne ikony - Office 2010 Add-In: Icons Gallery https://www.microsoft.com/en-us/download/details.aspx?id=21103&page=1 
+
+olevba - jak wyciągnąć makro  VBA z pliku *.ppam
+
+pip install oletools
+
+olevba "sciezka\do\pliku.ppam" > kod_vba.txt lub olevba -c "l:\b\ZapisywanieMediow.ppam" > kod_vba.txt lub olevba -c "sciezka\do\vbaProject.bin" > kod_vba.txt (bin wyciągnąć ze środka archiwum ppam--->zip)
 
