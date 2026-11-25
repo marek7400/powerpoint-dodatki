@@ -78,4 +78,4 @@ pip install oletools
 
 olevba "sciezka\do\pliku.ppam" > kod_vba.txt lub olevba -c "l:\b\ZapisywanieMediow.ppam" > kod_vba.txt lub olevba -c "sciezka\do\vbaProject.bin" > kod_vba.txt (bin wyciągnąć ze środka archiwum ppam--->zip)
 
-Jak wyciągnąłeś kod z pliku *.ppam i go wkleisz - to na liście makr go nie zobaczysz-póki nie usuniesz z kodu linii (control As IRibbonControl) z nagłówków.
+Jak wyciągnąłeś kod z pliku *.ppam i go wkleisz w inny *pptx lub *.pptm- to na liście makr go nie zobaczysz-póki nie usuniesz z kodu linii (control As IRibbonControl) z nagłówków.
