@@ -1,4 +1,4 @@
-# PowerPoint 2019 DODATKI
+# PowerPoint (2019 działa) DODATKI
 
 2 pliki wrzuca się je do (nazawaużytkownika-podaje się swoją)
 
