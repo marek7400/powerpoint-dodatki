@@ -76,9 +76,20 @@ Przydatne sztuczki przy tworzeniu własnej zakładki ze skrótami w menu PowerPo
 
 Office RibbonX Editor - edytor wstążki github.com/fernandreu/office-ribbonx-editor/releases/latest 
 
+UWAGA: jeśli używasz <command idMso="Paste" onAction="PrzechwycWklejanie" />
+
+trzeba użyć 
+Public Sub PrzechwycWklejanie()
+
+a nie
+Sub PrzechwycWklejanie(control As IRibbonControl, ByRef cancelDefault As Boolean)
+(com się kurna tego naszukał...)
+
 Własne ikony - Office 2010 Add-In: Icons Gallery https://www.microsoft.com/en-us/download/details.aspx?id=21103&page=1 
+ustawiamy w idMso=""
 
 olevba - jak wyciągnąć makro  VBA z pliku *.ppam
+
 
 pip install oletools
 
