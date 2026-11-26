@@ -92,13 +92,28 @@ Sub PrzechwycWklejanie(control As IRibbonControl, ByRef cancelDefault As Boolean
 (com się kurna tego naszukał...)
 
 Własne ikony - Office 2010 Add-In: Icons Gallery https://www.microsoft.com/en-us/download/details.aspx?id=21103&page=1 
+
 ustawiamy w idMso=""
 
+```
 olevba - jak wyciągnąć makro  VBA z pliku *.ppam
 
-
+```
 pip install oletools
 
-olevba "sciezka\do\pliku.ppam" > kod_vba.txt lub olevba -c "l:\b\ZapisywanieMediow.ppam" > kod_vba.txt lub olevba -c "sciezka\do\vbaProject.bin" > kod_vba.txt (bin wyciągnąć ze środka archiwum ppam--->zip)
+```
+olevba "sciezka\do\pliku.ppam" > kod_vba.txt
+```
+
+lub 
+
+```
+olevba -c "l:\b\ZapisywanieMediow.ppam" > kod_vba.txt
+```
+lub
+
+```
+olevba -c "sciezka\do\vbaProject.bin" > kod_vba.txt (bin wyciągnąć ze środka archiwum ppam--->zip)
+```
 
 Jak wyciągnąłeś kod z pliku *.ppam i go wkleisz w inny *pptx lub *.pptm- to na liście makr go nie zobaczysz-póki nie usuniesz z kodu linii (control As IRibbonControl) z nagłówków.
