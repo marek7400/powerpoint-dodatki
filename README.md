@@ -76,7 +76,9 @@ Przydatne sztuczki przy tworzeniu własnej zakładki ze skrótami w menu PowerPo
 
 Office RibbonX Editor - edytor wstążki github.com/fernandreu/office-ribbonx-editor/releases/latest 
 
-UWAGA: jeśli używasz <command idMso="Paste" onAction="PrzechwycWklejanie" />
+UWAGA: jeśli używasz 
+
+<command idMso="Paste" onAction="PrzechwycWklejanie" />
 
 trzeba użyć 
 Public Sub PrzechwycWklejanie()
