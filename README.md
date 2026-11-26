@@ -1,5 +1,11 @@
 # PowerPoint (2019 działa) DODATKI
 
+v2.0 w przygotowaniu...
+
+<img width="1920" height="199" alt="Makra PowerPoint 2019" src="https://github.com/user-attachments/assets/654c95b6-ff69-42e0-8b38-1a563efdd2c4" />
+
+---
+
 2 pliki wrzuca się je do (nazawaużytkownika-podaje się swoją)
 
 C:\Users\nazawaużytkownika\AppData\Roaming\Microsoft\AddIns
