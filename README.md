@@ -119,3 +119,17 @@ olevba -c "sciezka\do\vbaProject.bin" > kod_vba.txt (bin wyciągnąć ze środka
 ```
 
 Jak wyciągnąłeś kod z pliku *.ppam i go wkleisz w inny *pptx lub *.pptm- to na liście makr go nie zobaczysz-póki nie usuniesz z kodu linii (control As IRibbonControl) z nagłówków.
+
+Jeżeli w kodzie masz zapis który nie kończy się na () a:
+
+```
+Sub PokazHistoriePlikow(Optional control As IRibbonControl)
+```
+
+to musisz wstawić (inaczej pod Alt+F8 nie zobaczysz makra na liście
+
+```
+Sub PokazHistoriePlikow()
+    PokazHistoriePlikow
+End Sub
+```
