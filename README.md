@@ -126,7 +126,7 @@ Jeżeli w kodzie masz zapis który nie kończy się na () a:
 Sub PokazHistoriePlikow(Optional control As IRibbonControl)
 ```
 
-to musisz wstawić (inaczej pod Alt+F8 nie zobaczysz makra na liście
+to musisz wstawić (inaczej pod Alt+F8 nie zobaczysz makra na liście)
 
 ```
 Sub PokazHistoriePlikow()
